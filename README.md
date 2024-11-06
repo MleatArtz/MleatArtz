@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MleatArtz
-- 👀 I’m interested in Valorant 
-- 🌱 I’m currently learning Panzoid
+- 👋 Hi, I’m RalltNa
 - 📫 How to reach me Discord @raldzn
 
 <!---
